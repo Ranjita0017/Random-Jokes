@@ -1,2 +1,2 @@
 # Random jokes
-Generate random jokes about programming
+Generate random jokes about programming.
